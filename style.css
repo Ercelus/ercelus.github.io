@@ -1,0 +1,28 @@
+body{
+    background: url(Together.jpg);
+    background-size: cover;
+}
+
+.love {
+    text-align: center; /* Centers text horizontally */
+    height: 100vh;      /* Full viewport height for demonstration */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.nextLove {
+    background-color: rgb(153, 0, 255);
+    width: 50%;
+
+    border: solid red 5px;
+    border-radius: 15px;
+
+    margin: 0 auto;
+    text-align: center;
+}
